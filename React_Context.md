@@ -199,5 +199,5 @@ Sometimes in our everyday work we'll see our state changed but our UI doesn't ch
 
 ## **Final Thoughts**
 `useReducer` hook is responsible for providing context data. `useState` hook inside `Provider` component is actually updating state and making sure relevant components are updated as well. 
-`useReducer` is just a global data center!🙏
+`useContext` is just a global data center!🙏
 Next article, we'll talk about how `useReducer` works and how it's used together with `useContext`, stay tuned, you're not going to miss it🥰
